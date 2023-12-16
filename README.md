@@ -14,8 +14,7 @@ Thrilled to unveil my latest ongoing project in Java Full Stack Development: Sha
 ## For Developers:
 
 - Modern Tech Stack: Share-Medium leverages JSP, HTML, Bootstrap, Servlets, AJAX, and MySQL for a powerful foundation.
-- Design Thinking: User-centricity drives this project, evident in the intuitive interface and streamlined navigation.
-- Get a Closer Look:
+- Design Thinking: User-centricity drives this project, evident in the intuitive interface and streamlined navigation. Get a Closer Look:
 
 ### Glimpse Of Project
 
